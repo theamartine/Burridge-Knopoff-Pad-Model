@@ -1,8 +1,9 @@
 ## Welcome to the webpage for the Burrdige-Knopoff-Pad-Model
   _Created as a part of the Masters Thesis of Thea Marstrander._
 
-This webpage will show the animations, supplemented with plots of respective runs, made of the Burridge-Knopoff-Pad-Model.
-It will give short intepretations of what is seed in the animations, but for further analisys see the thesis itself.
+This webpage will show the animations made from simulations of the Burridge-Knopoff-Pad-Model. 
+It will also supplement with plots of the respective simulations.
+There will be given short intepretations of what can be viewed in the animations, but for further analisys see the full thesis.
 
 The webpage repository:
 Model repository:
