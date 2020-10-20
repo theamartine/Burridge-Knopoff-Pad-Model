@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the webpage for the Burrdige-Knopoff-Pad-Model
+
+_Created as a part of the Masters Thesis of Thea Marstrander_
 
 You can use the [editor on GitHub](https://github.com/theamartine/theamartine-github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
