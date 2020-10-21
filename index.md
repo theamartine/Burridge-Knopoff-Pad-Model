@@ -8,6 +8,4 @@ There will be given short intepretations of what can be viewed in the animations
 The webpage repository:
 Model repository:
 
-Are you a new master student? 
-
 ![](pad_position.png)
