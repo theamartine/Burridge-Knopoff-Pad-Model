@@ -9,6 +9,7 @@ The webpage repository:
 Model repository:
 
 ![](pad_position.png)
+![](pad_position.png)
 
 ![](animation_vid_7.mp4)
 ![](pad_position.png)
