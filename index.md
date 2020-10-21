@@ -8,6 +8,11 @@ There will be given short intepretations of what can be viewed in the animations
 The webpage repository:
 Model repository:
 
+[Friction figures](friction_figures.md)
+
+
+
+
 ![](pad_position.png)
 ![](pad_position.png)
 
