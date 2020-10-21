@@ -11,3 +11,4 @@ Model repository:
 ![](pad_position.png)
 
 ![](animation_vid_7.mp4)
+![](pad_position.png)
