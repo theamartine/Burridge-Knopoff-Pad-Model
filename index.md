@@ -9,6 +9,5 @@ The webpage repository:
 Model repository:
 
 Are you a new master student? 
-Contact me to get full acsess to the repository and continue the work on theis webpage.
 
 ![](pad_position.png)
