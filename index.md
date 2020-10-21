@@ -10,11 +10,8 @@ Model repository:
 
 [Friction figures](friction_figures.md)
 
+[a relative link](friction.html)
 
 
 
-![](pad_position.png)
-![](pad_position.png)
-
-![](animation_vid_7.mp4)
 ![](pad_position.png)
