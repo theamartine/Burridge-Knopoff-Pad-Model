@@ -8,7 +8,7 @@ There will be given short intepretations of what can be viewed in the animations
 The webpage repository:
 Model repository:
 
-[Friction figures](friction_figures.md)
+[Mode shape figures](modeShapes.md)
 
 [a relative link](friction.html)
 
