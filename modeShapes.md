@@ -1,5 +1,4 @@
 ## Mode shape figures
-  _Created as a part of the Masters Thesis of Thea Marstrander._
 
 Each image below shows the mode shape/eigenvector for each mode, created using 100 blocks. 
 Each bar represents each value in the eigenvector corresponinding the eigevalue in the image header. 
