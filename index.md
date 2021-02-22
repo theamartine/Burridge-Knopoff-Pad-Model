@@ -10,4 +10,4 @@ This webpage serves as an extended appendices for the master thesis on the Burrd
 [Seed figures](seedFigures.md)
 
 
-![](pad_position.png)
+![](12_01_normal_run_friction2_0.png)
